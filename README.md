@@ -28,7 +28,11 @@
 ```bash
 touch database/database.sqlite
 ```
+после запуска панель будет доступна по адресу:
+``localhost:8000/users``
 
+_ручка для генерации csv:_
+``localhost:8000/generate-products-csv``
 
 ## License
 
